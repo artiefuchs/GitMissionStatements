@@ -1,4 +1,4 @@
 Github Mission Statement
 Our mission is to build a global platform for developer collaboration.
-But that platform needs to be one that all of us can use to secure the world's software, together.
+That platform needs to be one that all of us can use to secure the world's software, together.
 Learn more on how you can help.
